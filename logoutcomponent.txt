@@ -4,3 +4,6 @@ Console.log("Hi")
 print
 }
 Hello
+
+
+adding more detail functionality for the logout 
