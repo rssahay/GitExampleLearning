@@ -3,3 +3,6 @@ logout(){
 
 }
 Hello
+
+
+adding more detail functionality for the logout 
